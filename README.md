@@ -56,5 +56,5 @@ NOTE:
 
 The Missing Migrants Project is an “incident-based” dataset, meaning that each entry in the database represents a single occurrence in which an individual or group of individuals die during migration or at international borders in one particular place and time. In some cases, official statistics are not disaggregated by the incident, in which case the entry will be marked as a “cumulative total.”
 
+(https://github.com/SoStrauss/MissingMigrants/assets/148326046/b9c27964-b6b7-43ce-9186-21b1f67e769b)
 
-![image](https://github.com/SoStrauss/MissingMigrants/assets/148326046/b9c27964-b6b7-43ce-9186-21b1f67e769b)

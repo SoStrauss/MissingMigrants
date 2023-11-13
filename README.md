@@ -9,6 +9,7 @@ Data source:
 -	Collected by the Missing Migrants Project, an initiative implemented by the International Organization for Migration (IOM) since 2014. Missing Migrants Project is a joint initiative of IOM's Global Migration Data Analysis Centre (GMDAC) and Media and Communications Division (MCD).
 -	"IOM's Missing Migrants Project" https://missingmigrants.iom.int/ 
 -	Research behind this project began with the October 2013 tragedies, when at least 368 individuals died in two shipwrecks near the Italian island of Lampedusa.
+-	GeoJSON file provided by CareerFoundry for educational purpose
 
 Data collection method:
 

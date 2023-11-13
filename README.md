@@ -79,3 +79,6 @@ The Missing Migrants Project is an “incident-based” dataset, meaning that ea
 **4. Analysis**
 - Reports
 
+## Project deliverable: Tableau Visualization
+
+[Missing Migrants (IOM)]([https://public.tableau.com/views/MissingMigrantsIOM/Story1?:language=de-DE&:display_count=n&:origin=viz_share_link])

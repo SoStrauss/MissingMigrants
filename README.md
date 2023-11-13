@@ -57,12 +57,15 @@ What is excluded:
 The Missing Migrants Project is an “incident-based” dataset, meaning that each entry in the database represents a single occurrence in which an individual or group of individuals die during migration or at international borders in one particular place and time. In some cases, official statistics are not disaggregated by the incident, in which case the entry will be marked as a “cumulative total.”
 
 ## Content of folders:
+
 **1. Project Management**
 - Project Information_updated
 - Project Brief
+  
 **2. Data**
 - Original data
 - Prepared data
+  
 **3. Scripts**
   1. Check and compare datasets
   2. Update_2. Data Preparation_Quality and consistency checks
@@ -72,6 +75,7 @@ The Missing Migrants Project is an “incident-based” dataset, meaning that ea
   6. Unsupervised Machine Learning_Clustering
   7. Update_7. Analyzing & Forecasting Time Series Data_year_month
   8. Preparing Tableau Storyboard
+     
 **4. Analysis**
 - Reports
 
